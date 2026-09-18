@@ -6,7 +6,8 @@ interactive systems, level design, exploration, and basic enemy AI.
 Developed over one month while learning the fundamentals of game design
 and gameplay development.
 
-Game Development Document:
+Game Development Document link:
+
 ## Overview
 
 This project was created as a learning-focused horror prototype to explore
