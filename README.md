@@ -46,6 +46,7 @@ my understanding of Unreal Engine and gameplay systems.
 ![Alerted](Screenshots/Monster_seen.png)
 
 ### Programming
+![Blueprint](Screenshots/Blueprints.png)
 - Developed gameplay logic using Blueprints
 - Used Blueprint communication and event-driven systems
 - Implemented interaction and gameplay conditions
