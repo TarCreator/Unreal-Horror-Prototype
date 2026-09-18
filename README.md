@@ -3,6 +3,8 @@
 A third-person horror game prototype focused on flashlight mechanics,
 interactive systems, level design, exploration, and basic enemy AI.
 
+Game Development Document:
+
 Developed over one month while learning the fundamentals of game design
 and gameplay development.
 
