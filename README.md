@@ -43,6 +43,7 @@ my understanding of Unreal Engine and gameplay systems.
 - Created original 3D assets using Blender
 - Created and applied materials to original assets
 - Integrated assets into Unreal Engine
+![Alerted](Screenshots/Monster_seen.png)
 
 ### Programming
 - Developed gameplay logic using Blueprints
