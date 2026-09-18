@@ -13,3 +13,10 @@ to their respective licenses.
 
 This repository does not grant permission to redistribute
 third-party materials.
+
+## Credits & References
+
+Some gameplay systems were developed using publicly available tutorials
+and learning resources. These resources were used for educational
+reference and the implementations in this project were adapted for
+this prototype.
