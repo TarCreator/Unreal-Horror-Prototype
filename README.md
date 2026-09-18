@@ -38,6 +38,7 @@ my understanding of Unreal Engine and gameplay systems.
 - Placed interactive elements and gameplay events
 
 ### 3D Development
+![Player](Screenshots/Jab.png)
 - Created original 3D assets using Blender
 - Created and applied materials to original assets
 - Integrated assets into Unreal Engine
