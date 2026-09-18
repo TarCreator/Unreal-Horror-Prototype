@@ -12,4 +12,4 @@ remain the property of their respective owners and are subject
 to their respective licenses.
 
 This repository does not grant permission to redistribute
-third-party materials.  
+third-party materials.
