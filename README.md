@@ -39,7 +39,7 @@ my understanding of Unreal Engine and gameplay systems.
 
 ### 3D Development
 ![Player](Screenshots/Jab.png)
-![MonsterEnemy](Screenshots/Screenshots/Monster.png)
+![Monster](Screenshots/Monster.png)
 - Created original 3D assets using Blender
 - Created and applied materials to original assets
 - Integrated assets into Unreal Engine
