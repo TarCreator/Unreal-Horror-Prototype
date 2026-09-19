@@ -51,6 +51,8 @@ Although adding other traversal mechanics will wait.
 
 - Interaction system
 - Flashlight system
+![Flashlight](Screenshots/Flashlightcapture.png)
+
 - Weapon system (In Progress)
 - Enemy AI
 - Jumpscare system
