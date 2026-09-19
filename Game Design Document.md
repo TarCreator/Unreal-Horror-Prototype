@@ -55,16 +55,14 @@ Although adding other traversal mechanics will wait.
 - Enemy AI
 - Jumpscare system
 - Trigger/event systems (In Progress)
-- Damage system (In Progress)
 
 ---
 
 ## 5. World / Level Design
-
+![Hallway](Screenshots/Hallway.png)
 - Environment layout
 - Exploration
 - Areas/rooms
-- Player progression
 - Horror encounter placement
 
 ---
