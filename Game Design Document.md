@@ -20,12 +20,8 @@ The core gameplay of *The Graveleech* focuses on exploration, interaction, and s
 
 ### Basic Mechanics
 
-- Player movement
-- Environmental interactions
-- Enemy AI
-- Level exploration and design
-- Simple weapon mechanics
-- Horror encounters and jumpscare sequences
+3D seemed to be more immersive than I thought. Exploring will be the most powerful and immersive part of this mini-prototype game.
+Although adding other traversal mechanics will wait
 
 ### Core Gameplay Loop
 
@@ -37,12 +33,13 @@ The core gameplay of *The Graveleech* focuses on exploration, interaction, and s
 
 **Role and Abilities**
 
-- Movement
-- Camera controls
-- Interaction
-- Flashlight
-- Weapon
-- Player objectives
+-Main player plays the hero
+-holds a pistol for weapon usage
+-flashlights can be picked up at the beginning at some levels
+### Goals
+-take out enemies and avoid boss enemies
+-finding exits and escaping
+
 
 ---
 
