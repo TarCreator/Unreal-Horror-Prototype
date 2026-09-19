@@ -159,7 +159,7 @@ Enemy encounters are positioned throughout the environment to test how the playe
 
 ## 6. Enemy / Monster
 
-![Graveleech](Screenshots/graveleech.png)
+![Graveleech](Screenshots/Monster.png)
 
 ### 6.1 Enemy Appearance
 
