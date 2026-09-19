@@ -85,7 +85,8 @@ The story started off with the main player.
 ---
 
 ## 8. Art
-
+![graveleech](Screenshots/graveleech.png)
+![graveleech](Screenshots/20260717_230827.png)
 - Cartoonish look, nothing crazy
 - Sketches used in Blender for shape references
 - Custom assets created by TarCreator (Jose Pinto)
