@@ -48,11 +48,9 @@ Although adding other traversal mechanics will wait.
 ## 4. Game Systems
 
 **Systems implemented in the prototype**
-
+![Flashlight](Screenshots/Flashlightcapture.png)
 - Interaction system
 - Flashlight system
-![Flashlight](Screenshots/Flashlightcapture.png)
-
 - Weapon system (In Progress)
 - Enemy AI
 - Jumpscare system
