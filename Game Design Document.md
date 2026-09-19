@@ -19,7 +19,6 @@ The project focuses on:
 * Level design
 * Simple weapon mechanics
 * Horror encounters
-* Gameplay events and triggers
 
 The game's narrative and horror encounters were used to guide the development of the gameplay experience and the design of its environments.
 
@@ -58,7 +57,7 @@ The player controls the main protagonist as they explore the game's environments
 The player can:
 
 * Move through the environment
-* Explore rooms and areas
+* Explore areas
 * Interact with objects
 * Use a flashlight
 * Use a pistol
