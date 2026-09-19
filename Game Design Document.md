@@ -59,11 +59,11 @@ Although adding other traversal mechanics will wait.
 ---
 
 ## 5. World / Level Design
-![Hallway](Screenshots/Hallway.png)
-- Environment layout
-- Exploration
-- Areas/rooms
-- Horror encounter placement
+![Hallway](Screenshots/ProtoTypeMap.png)
+- Environment represents a prototype map with elavators
+- Player can explore and look around, as well as fear the height
+- Room test key usage
+- Horror encounter placement so that the player can test the chase sequence from the enemy
 
 ---
 
