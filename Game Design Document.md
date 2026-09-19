@@ -102,6 +102,7 @@ There is so far only a jumpscare audio, using Unreal Engine's default sound.
 ## 10. UI / UX
 
 The Main Menu uses a simple menu startup, with **Start Game** being the first option.
+![graveleech](Screenshots/MainMenu.png)
 
 **Quit Game** is self-explanatory.
 
